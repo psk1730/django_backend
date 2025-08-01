@@ -6,3 +6,4 @@
  python-decouple
  Django
 djangorestframework
+drf_extra_fields
