@@ -1,0 +1,9 @@
+venv/
+.pythonlibs/
+__pycache__/
+*.pyc
+*.pyo
+*.jpg
+*.pyd
+*.csv
+*.sqlite3
